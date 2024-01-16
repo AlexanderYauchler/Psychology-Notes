@@ -1,4 +1,8 @@
 ***
+![[doug-walker-clapping.gif]]
+**Syllabus time!!!****
+There are 5 exams.
+
 - Social psychology historically has focused on the role of the external social environment in individual behavior.
 	- **The ways that individuals in general or on average, tend to react in a given situation** (*1.3.2*)
 
