@@ -23,3 +23,9 @@
 	- Thoughts + Feelings -> Behavior
 - Social Pshychology view of causes
 	- Others' Behavior ->Behavior
+
+Lewin's model of social behavior (*1.2.4*)
+- Social cognitive perspective
+- **Situation** - All external influences on behavior
+	- Presence or absence of other people, expectations, roles, and statements.
+- **Person** - Features or characteristics that individuals carry into a situation (*1.3.2*)
