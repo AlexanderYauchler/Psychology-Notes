@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1.md",
+                "file": "Chapter 1 & 2 - Personality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1.md",
+                "file": "Chapter 1 & 2 - Personality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1.md",
+                "file": "Chapter 1 & 2 - Personality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1.md"
+                "file": "Chapter 1 & 2 - Personality.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "ed4499d3040a254e",
   "lastOpenFiles": [
+    "Chapter 1.md",
     "Chapter 1 & 2 - Personality.md",
     "doug-walker-clapping.gif",
-    "Chapter 1.md",
     "Psychology-24000-Notes"
   ]
 }

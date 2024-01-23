@@ -27,12 +27,9 @@ There are 5 exams.
 	- Thoughts + Feelings -> Behavior
 - Social Pshychology view of causes
 	- Others' Behavior ->Behavior
-<<<<<<< HEAD
-=======
 
 Lewin's model of social behavior (*1.2.4*)
 - Social cognitive perspective
 - **Situation** - All external influences on behavior
 	- Presence or absence of other people, expectations, roles, and statements.
 - **Person** - Features or characteristics that individuals carry into a situation (*1.3.2*)
->>>>>>> 214e3d26e84d33f6e8ab54988d64e14973e4c414
